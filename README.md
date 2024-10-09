@@ -1,7 +1,7 @@
 ### Sem testes, codificar é apenas adivinhar.
 
 - 🔭 Cursando Ciência da computação
-- 🐞 Quality Assurence
+- 🐞 Quality Assurance
 <div align="center">
   <a href="https://www.linkedin.com/services/page/0a8aa2315b43373839/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCASilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
