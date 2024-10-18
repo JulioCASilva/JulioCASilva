@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Quality Assurance<br>- Cursando Ciência da Computação<br>- Estagiário de QA</p>
+<p align="left">- 🐞Quality Assurance<br>- 🔭Cursando Ciência da Computação<br>- 💡Estagiário de QA</p>
 
 
 <h2 align="left">🤖Techs</h2>
