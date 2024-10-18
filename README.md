@@ -5,11 +5,6 @@
 <p align="left">- Quality Assurance<br>- Cursando Ciência da Computação<br>- Estagiário de QA</p>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFlcWt1eHk2dWYwNXp3dzh3aTBodms2Y2Jqb24wZmt6eGJ0dXR1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/MEFfq3EiIzRirBddfT/giphy.gif"  />
-</div>
-
 ###
 
 <h2 align="left">Techs</h2>
