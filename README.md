@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Social midia</h2>
+<h2 align="left">🌐Social midia</h2>
 
 ###
 
