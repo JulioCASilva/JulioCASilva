@@ -1,4 +1,4 @@
-<h2 align="left">💻Um bom testador não é um 'caçador de bugs', mas sim um 'explorador de riscos'</h2>
+<h2 align="left">DEv'</h2>
 
 ###
 
