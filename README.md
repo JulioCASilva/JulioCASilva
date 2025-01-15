@@ -1,7 +1,3 @@
-<h2 align="left">DEv'</h2>
-
-###
-
 <p align="left">- Dev<br>- 🔭Cursando Ciência da Computação<br>- 💡Estagiário de QA</p>
 
 
