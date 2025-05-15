@@ -1,4 +1,4 @@
-<p align="left">- Backend Developer<br>- 🔭Cursando Ciência da Computação<br>- 💡Estagiário de QA</p>
+<p align="left">- Backend Developer<br>- 🔭Cursando Ciência da Computação<br>- 💡Estagiário de Desenvolvimento</p>
 
 
 <h2 align="left">🤖Techs</h2>
