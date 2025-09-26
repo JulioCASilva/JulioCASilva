@@ -1,4 +1,4 @@
-<p align="left">- Backend Developer<br>- 🔭Cursando Ciência da Computação<br>- 💡Estagiário de Desenvolvimento</p>
+<p align="left">- Mobile Developer<br>- 🔭Cursando Ciência da Computação<br>- 💡Sowftware Engineer</p>
 
 
 <h2 align="left">🤖Techs</h2>
@@ -23,6 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" />
   <img width="12" />
 </div>
 
