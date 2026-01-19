@@ -1,4 +1,4 @@
-<p align="left">- Mobile Developer<br>- 🔭Bacharel em Ciência da Computação<br>- 💡Sowftware Engineer</p>
+<p align="left">- Mobile Developer<br>- Bacharel em Ciência da Computação<br>- Sowftware Engineer</p>
 
 
 <h2 align="left">🤖Techs</h2>
